@@ -60,7 +60,7 @@ Links
 [Subscribe our YouTube channel link](https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A)
 
 
-### run
+### run in kali linux
 Image--
 ![image](https://github.com/HackersTech/email-pass-separator/blob/main/IMG_20210730_214835.jpg)
 
