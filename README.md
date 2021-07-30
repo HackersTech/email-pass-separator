@@ -63,4 +63,4 @@ Image--
 
 ---
 
-![](https://www.codewars.com/users/Hackers%20Tech/badges/large)Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/PicsArt_06-20-01.39.06.jpg)
+![](https://www.codewars.com/users/Hackers%20Tech/badges/large)
