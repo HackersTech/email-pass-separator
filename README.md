@@ -33,7 +33,7 @@ cd crispy-bash-utilities
 bash b.sh
 ```
 ### sample.txt file
-- >sample file is example for file types to seprate password from this tool
+- >sample file is example of file types to seprate password from this tool
 ---
 ### support us and follow on 
 
