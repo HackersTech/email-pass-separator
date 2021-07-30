@@ -1,6 +1,6 @@
 import os
 
-print("\033[5;33m link of youtube channel in repo")
+print("\033[5;33m link of our youtube channel in repo")
 
 
 
