@@ -18,7 +18,7 @@ if l!='':
                         h=k.readline()
                         g=h.split(":")
                         print(g[1])
-        except:
+    except:
                 k.close()
 elif l==u or l==U :
         os.system('bash u.sh')
