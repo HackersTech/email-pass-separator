@@ -3,6 +3,8 @@
 
 hii check out  our new tool
 ## email:password separator
+
+
 Image ![]()
 ---
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
@@ -60,7 +62,7 @@ Links
 
 ### run
 Image--
-![image]()
+![image](https://github.com/HackersTech/email-pass-separator/blob/main/IMG_20210730_214835.jpg)
 
 ---
 |share|our|repo |
