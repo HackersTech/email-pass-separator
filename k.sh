@@ -11,3 +11,5 @@ python password.py
 elif [ "$k"==2 ]
 then
 bash u.sh
+else 
+echo 'error occurred'
