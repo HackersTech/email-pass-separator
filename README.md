@@ -14,6 +14,8 @@ pkg install python -y
 
 pkg install git -y
 
+gem install lolcat
+
 pkg install python2 -y
 
 
