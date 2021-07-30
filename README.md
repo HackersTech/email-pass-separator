@@ -34,6 +34,7 @@ python password.py
 ```
 ### sample.txt file
 - >sample file is example of file types to seprate password from this tool
+- >file format should be email : pass
 ---
 ### support us and follow on 
 
