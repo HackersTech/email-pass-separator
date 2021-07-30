@@ -20,7 +20,7 @@ if l!='':
                         print(g[1])
     except:
                 k.close()
-elif l==u or l==U :
+elif l=='u' or l=='U' :
         os.system('bash u.sh')
 else:
     print('\033[5;31m error occured invalid input')
