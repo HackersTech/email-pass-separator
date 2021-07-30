@@ -1,8 +1,7 @@
 import os
 
-print("\033[5;33m link of our youtube channel in repo")
-
-
+print(" link of our youtube channel in repo")
+print ("\033[5;35m file should be in working directory/ or give folder path")
 
 l=input("Enter file name to seperate password from file ")
 if l!='':
