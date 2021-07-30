@@ -1,8 +1,6 @@
 import os
 
 print("\033[5;33m link of youtube channel in repo")
-print  "\033[4;33m instagram id -- hackers__tech"
-
 os.system('bash k.sh')
 
 
