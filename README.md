@@ -28,9 +28,9 @@ pkg install python2 -y
 
 - git clone https://github.com/HackersTech/email-pass-separator
 ```
-cd crispy-bash-utilities
+cd email-pass-separator
 
-bash b.sh
+python pass.py
 ```
 ### sample.txt file
 - >sample file is example of file types to seprate password from this tool
