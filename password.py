@@ -2,6 +2,7 @@ import os
 
 print("\033[5;33m link of youtube channel in repo")
 os.system('bash k.sh')
+os.system('clear')
 
 
 print("file should in working directory ")
