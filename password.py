@@ -12,12 +12,14 @@ l=input("Enter file name to seperate password from file ")
 if l!='':
         
     k=open(l,'r')
-
-    h=' '
-    while h:
-        h=k.readline()
-        g=h.split(":")
-        print(g[1])
+    try:
+                h=' '
+                while h:
+                        h=k.readline()
+                        g=h.split(":")
+                        print(g[1])
+        except:
+                k.close()
 elif l==u or l==U :
         os.system('bash u.sh')
 else:
