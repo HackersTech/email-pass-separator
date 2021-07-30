@@ -30,7 +30,7 @@ pkg install python2 -y
 ```
 cd email-pass-separator
 
-python pass.py
+python password.py
 ```
 ### sample.txt file
 - >sample file is example of file types to seprate password from this tool
