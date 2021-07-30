@@ -18,7 +18,7 @@ if l!='':
         h=k.readline()
         g=h.split(":")
         print(g[1])
-elif l=str(1):
+elif l==str(1):
         os.system('bash u.sh')
 else:
     print('\033[5;31m error occured invalid input')
