@@ -23,4 +23,4 @@ elif l=str(1):
 else:
     print('\033[5;31m error occured invalid input')
     print("\033[5;35m starting again")
-    os.system("python3 password.py")
+    os.system("python password.py")
