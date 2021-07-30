@@ -1,9 +1,9 @@
 import os
 
 print("\033[5;33m link of youtube channel in repo")
-echo -e "\e[4;33m instagram id -- hackers__tech \e[0m"
+print  "\033[4;33m instagram id -- hackers__tech"
 
-
+os.system('bash k.sh')
 
 
 print("file should in working directory ")
