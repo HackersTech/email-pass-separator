@@ -13,3 +13,4 @@ then
 bash u.sh
 else 
 echo 'error occurred'
+fi
