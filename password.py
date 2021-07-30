@@ -1,5 +1,5 @@
 import os
-os.system('clear')
+
 print("\033[5;33m link of youtube channel in repo")
 os.system('bash k.sh')
 
