@@ -2,7 +2,8 @@ import os
 
 print(" link of our youtube channel in repo")
 print ("\033[5;37m file should be in working directory/ or give folder path")
-
+os.system("cd ..")
+os.system("cd email-password-separator")
 l=input("Enter file name to seperate password from file ")
 if l!='':
         
