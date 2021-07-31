@@ -1,5 +1,6 @@
 clear
 bash m.sh |lolcat
+chmod +x k.sh 
 
 echo -e "\e[5;32m 1) for password separator press 1"
 echo '2)for updating press 2 '
