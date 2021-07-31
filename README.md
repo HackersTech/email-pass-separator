@@ -1,7 +1,8 @@
 # email-pass-separator
 
 
-hii check out  our new tool
+hii check out  our new tool in kali linux use 'filename '
+Dont forget to put inverted comma
 ## email:password separator
 
 
