@@ -2,7 +2,7 @@
 
 
 hii check out  our new tool in kali linux use 'filename '
-Dont forget to put inverted comma
+Dont forget to put double quotes or single
 ## email:password separator
 
 
