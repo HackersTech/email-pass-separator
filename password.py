@@ -12,8 +12,8 @@ if l!='':
                 h=' '
                 while h:
                         h=k.readline()
-                        g=h.split(":")
-                        print(g[1])
+                        g=h.split(":")  #here you can put own separator
+                        print(g[1])       #here you can change password to email by putting 0 inside box
     except:
                 k.close()
 
